@@ -2,7 +2,7 @@ package com.exercicio.entities.enums;
 
 public enum OrderStatus {
 
-    PENDING_PAYMEN,
+    PENDING_PAYMENT,
     PROCESSING,
     SHIPPED,
     DELIVERED;

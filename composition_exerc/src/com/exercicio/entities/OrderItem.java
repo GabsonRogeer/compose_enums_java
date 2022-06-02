@@ -32,6 +32,12 @@ public class OrderItem {
         return quantity * price;
     }
 
+    public Product getProduct() {
+        return product;
+    }
+    public void setProduct(Product product) {
+        this.product = product;
+    }
     @Override
     public String toString() {
         return product.getName()
