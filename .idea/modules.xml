@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/composition1/composition1.iml" filepath="$PROJECT_DIR$/composition1/composition1.iml" />
       <module fileurl="file://$PROJECT_DIR$/composition2/composition2.iml" filepath="$PROJECT_DIR$/composition2/composition2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composition_exerc/composition_exerc.iml" filepath="$PROJECT_DIR$/composition_exerc/composition_exerc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/enum_compose.iml" filepath="$PROJECT_DIR$/.idea/enum_compose.iml" />
     </modules>
   </component>
